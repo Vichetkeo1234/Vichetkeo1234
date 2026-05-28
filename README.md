@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keo Vichet.</h1>
 <h3 align="center">A passionate Full Stack developer from Cambodia. Developing a solution that serves the user and satisfies the client.</h3>
 
-<p align="left"> <a href="https://github.com/Vichetkeo1234"><img src="https://github.com/Vichetkeo1234" alt="vichetkeo1234" /></a> </p>
-
 - 🔭 I’m currently working on **RentalPro KH.**
 
 - 🌱 I’m currently learning **Spring Boot.**
